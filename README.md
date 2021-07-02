@@ -1,6 +1,6 @@
 # BBB On-Demand API
 
-This is a basic wrapper for (BigBlueButton On-Demand)[https://bbbondemand.com/] service. You can visit the (API)[https://bbbondemand.com/] documentation for more information.
+This is a basic wrapper for [BigBlueButton On-Demand](https://bbbondemand.com/) service. You can visit the [API](https://bbbondemand.com/) documentation for more information.
 
 # 0.0.1 - Initial version
 
